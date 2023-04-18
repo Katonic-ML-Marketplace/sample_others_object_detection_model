@@ -1,0 +1,1 @@
+# test_others_object_detection_model
