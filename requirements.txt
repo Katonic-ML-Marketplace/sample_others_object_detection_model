@@ -5,3 +5,4 @@ torchvision
 tqdm
 torch
 psutil
+ultralytics
