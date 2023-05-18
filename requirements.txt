@@ -1,17 +1,7 @@
 pandas
-tf2onnx
 torchvision
 Cython
-matplotlib
-numpy
-opencv-python
-Pillow
-PyYAML
-scipy
-tensorboard
 torchvision
 tqdm
-seaborn
-pandas
 torch
 psutil
